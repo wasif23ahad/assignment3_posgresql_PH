@@ -54,7 +54,7 @@ The following queries are included in **queries.sql**:
 4. **GROUP BY + HAVING** — vehicles with more than 2 bookings
 
 ## 🎤 Viva (Theory Questions)
-Prepare short verbal answers for:
+Prepared a short verbal answers for:
 1. Foreign key and its importance
 2. Difference between WHERE and HAVING
 3. Primary key characteristics
