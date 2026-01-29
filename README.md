@@ -62,11 +62,11 @@ Prepare short verbal answers for:
 
 **Viva Video Link:** [link ](https://drive.google.com/drive/folders/1z1C5a_rVDUkgoOf3_QY-JuPp_JyAt4f5)
 
-## 📤 Submission 
+## 📤 Submission
 
-[GitHub Repo:] https://github.com/wasif23ahad/assignment3_posgresql_PH
-[ERD Link:] <https://lucid.app/lucidchart/cd60182c-3f4b-42f2-bf7b-0dbe818b9628/edit?invitationId=inv_ccb4ef21-e840-4183-a4ad-7f149acb1dd5>
-[Viva Video Link:] https://drive.google.com/drive/folders/1z1C5a_rVDUkgoOf3_QY-JuPp_JyAt4f5
+- **GitHub Repo:** https://github.com/wasif23ahad/assignment3_posgresql_PH
+- **ERD Link:** https://lucid.app/lucidchart/cd60182c-3f4b-42f2-bf7b-0dbe818b9628/edit?invitationId=inv_ccb4ef21-e840-4183-a4ad-7f149acb1dd5
+- **Viva Video Link:** https://drive.google.com/drive/folders/1z1C5a_rVDUkgoOf3_QY-JuPp_JyAt4f5
 
 
 ## 👤 Author
